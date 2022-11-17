@@ -1,8 +1,5 @@
-## My Project: jest_crash_course
+## A Following Along of Traversy's Jest Crash Course
 
-Some text about my project.
+This repo simply contains documentation of the following Traversy's Jest Crash Course on Youtube:
 
-__Checklist__
-
-- [x] Completed Task
-- [ ] Incomplete Task
+[Traversy's Jest Crash Course](https://www.youtube.com/watch?v=7r4xVDI2vho)
